@@ -12,7 +12,7 @@ import java.io.Serializable;
 public class User implements Serializable {
 	
 	/**
-	 * 
+	 * add comment
 	 */
 	private static final long serialVersionUID = 1L;
 	private int id;
