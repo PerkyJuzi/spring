@@ -17,7 +17,7 @@ public class User implements Serializable {
 	private static final long serialVersionUID = 1L;
 	private int id;
 	private String name;
-	private String password;
+	private String password; //TODO：密文存储
 	private String address;
 	public int getId() {
 		return id;
